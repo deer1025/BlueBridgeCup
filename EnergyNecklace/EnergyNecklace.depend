@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616312127 source:d:\codeblocks\workplace\energynecklace\main.cpp
+	<iostream>
+	<algorithm>
+

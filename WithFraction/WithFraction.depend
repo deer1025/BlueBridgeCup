@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616590337 source:d:\codeblocks\workplace\withfraction\main.cpp
+	<iostream>
+	<algorithm>
+

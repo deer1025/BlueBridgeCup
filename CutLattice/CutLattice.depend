@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616685720 source:d:\codeblocks\workplace\cutlattice\main.cpp
+	<iostream>
+	<algorithm>
+

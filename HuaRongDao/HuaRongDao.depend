@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1617601610 source:e:\workplaces-codeblocks\huarongdao\main.cpp
+	<iostream>
+	<cstdio>
+	<map>
+	<queue>
+	<cstring>
+

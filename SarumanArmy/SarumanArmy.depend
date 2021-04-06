@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615171252 source:d:\codeblocks\workplace\sarumanarmy\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+
